@@ -6,6 +6,17 @@ A comprehensive Hospital Management System built with the MERN stack, providing 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://mongodb.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)](https://expressjs.com/)
+---
+# 📌 Internship Details
+
+| Field | Details |
+|-------|---------|
+| **Intern ID** | CITS2334 |
+| **Full Name** | Binit Nayak |
+| **No. of Weeks** | 1 Week (5 Days) |
+| **Project Name** | Hospital Management System |
+| **Project Scope** | Built a modern Hospital Management System using Next.js to manage patients, doctors, appointments, billing, and medical records through a centralized dashboard. The project emphasizes responsive design, secure authentication, efficient database management, and an intuitive user experience for hospital administration. |
+
 
 ## 📋 Table of Contents
 
